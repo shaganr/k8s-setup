@@ -1,7 +1,5 @@
 # Kubernetes (1.13) Bootstrap Script for GCP
 
----
-
 ## About
 
 Sets up 2 node k8s cluster on GCP. Project uses Project Calico so nodes can speak to one another.
